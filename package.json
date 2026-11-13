@@ -1,0 +1,13 @@
+{
+  "name": "omnis-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Omnis AI service.",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
